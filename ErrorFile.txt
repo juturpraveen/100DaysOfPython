@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/Users/praveenjutur/ml/100/day7/tracebackExample.py", line 7, in <module>
+    car()
+  File "/Users/praveenjutur/ml/100/day7/tracebackExample.py", line 4, in car
+    raise Exception("Tis is error!")
+Exception: Tis is error!
